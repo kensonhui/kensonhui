@@ -1,4 +1,4 @@
-### Hi there welcome to my Github!  👋
+### Hi there!  👋
 
 I'm entering my second-year for my Double Degree program @ UWaterloo and WLU for Computer Science & Business Administration.
 
