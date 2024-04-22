@@ -2,6 +2,7 @@
 
 I'm a fourth-year student @ UWaterloo and WLU for Computer Science & Business Administration.
 
-About Me
-- 🌱 I’m learning about NumPy and PyTorch
-- 🪂 I went skydiving from over 12,500 ft this summer!
+What's been brewing at the moment:
+- I'm currently working on supercharging research paper reading, check it out here: https://ourslash.company/
+- On the side, I've been working on the marketing for a dessert spot opening in Waterloo.
+- I’m learning PyTorch, I've implemented a CNN, GANS for digits, the original Transformer model in "Attention is All You Need" and a Diffusion Model!
